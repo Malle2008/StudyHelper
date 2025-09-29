@@ -1,0 +1,5 @@
+qdrant
+sentence-transformers
+fastapi
+uvicorn
+pydantic
